@@ -31,4 +31,6 @@ Hard
 3) Animated Section Transitions: Implement smooth animations when scrolling or navigating between sections.
 4) Advanced Form Validation: Implement comprehensive validation on the contactform, including custom validators and real-time feedback.
 
+Deployed Link: https://angular-task-ruddy.vercel.app/
+
 
