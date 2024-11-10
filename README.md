@@ -1,32 +1,34 @@
-<<<<<<< HEAD
-# Resumemaker
+How to Run:
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.11.
+1) Clone the Repository into your local machine
+2) Go to root directory of the project
+3) npm install in the terminal
+4) npm start or ng serve in the terminal
 
-## Development server
+Implementations:
+Easy:
+1) Header Section: Display your name, job title, and contact information at the top of the resume.
+2) Profile Picture: Add a static profile picture to the resume.
+3) Experience Section: List job titles, company names, and dates in a structuredformat.
+4) Education Section: Include your educational background with degree, institution,and graduation date.
+5) Skills Section: Display your technical and soft skills in a list or grid format.
+6) Hobbies/Interests Section: Add a section for hobbies or personal interests.
+7) StaticContactInformation:Provideasectionwithyouremailaddress,phone number, and LinkedIn profile.
+8) SimpleNavigation:Implementbasicnavigationtoscrollornavigatebetweensections of the resume.
+9) DownloadablePDF:IncludeabuttontodownloadtheresumeasaPDF.
+10) Static References: List references or testimonials without interactivity.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Medium
+1) Interactive Skills Rating: Allow users to hover over or click on skills to see a rating or proficiency level.
+2) Toggleable Sections: Add buttons or links to toggle visibility of certain sections (e.g.,showing/hiding hobbies).
+3) Portfolio Section: Include a portfolio section with images and descriptions of past projects.
+4) Interactive Timeline: Create an interactive timeline for work experience oreducation, with clickable dates.
+5) Linked Contact Form: Implement a contact form where HR professionals can reachout directly from the resume.
 
-## Code scaffolding
+Hard
+1) Location Map: Integrate Google Maps to show your current location or places you'veworked/studied.
+2) Pop-up Modals for Experience Details: Clicking on a job title opens a modal with detailed job descriptions, responsibilities, and achievements.
+3) Animated Section Transitions: Implement smooth animations when scrolling or navigating between sections.
+4) Advanced Form Validation: Implement comprehensive validation on the contactform, including custom validators and real-time feedback.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
-=======
-# Angular-Task
-Angular Task For Internship
->>>>>>> 1ab8235c72ebea7b3335ddac4c898b50c5f85deb
